@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bgonzalez\\OneDrive - Microsoft\\CSharp_Training\\1\\1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bgonzalez\\OneDrive - Microsoft\\CSharp_Training\\1\\1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bgonzalez\\OneDrive - Microsoft\\CSharp_Training\\1\\1.csproj",
+        "projectName": "1",
+        "projectPath": "C:\\Users\\bgonzalez\\OneDrive - Microsoft\\CSharp_Training\\1\\1.csproj",
+        "packagesPath": "C:\\Users\\bgonzalez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bgonzalez\\OneDrive - Microsoft\\CSharp_Training\\1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bgonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
